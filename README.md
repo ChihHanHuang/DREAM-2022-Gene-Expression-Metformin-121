@@ -1,5 +1,7 @@
 # DREAM-2022-Gene-Expression-Metformin-121
 
+Team: Metformin-121
+
 training, testing code: Metformin-121.ipynb
 
 model, weights: expression_f4_b32_full_gru_8_coeff_determination_loss
